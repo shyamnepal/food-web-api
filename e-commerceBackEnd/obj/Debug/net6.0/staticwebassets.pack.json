@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Core_C#\\e-commerceBackEnd\\e-commerceBackEnd\\wwwroot\\uploads\\gosaikunda231200671.jpg",
+      "PackagePath": "staticwebassets\\uploads\\gosaikunda231200671.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.e-commerceBackEnd.props",
+      "PackagePath": "build\\e-commerceBackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.e-commerceBackEnd.props",
+      "PackagePath": "buildMultiTargeting\\e-commerceBackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.e-commerceBackEnd.props",
+      "PackagePath": "buildTransitive\\e-commerceBackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.e-commerceBackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
